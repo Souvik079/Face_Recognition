@@ -65,7 +65,7 @@ Use-cases: demo / learning, prototype for attendance/visitor systems, photo apps
 1. Clone the repo:
 
 bash
-git clone https://github.com/your-username/react-face-recognition.git
+git clone [https://github.com/your-username/react-face-recognition.git](https://github.com/Souvik079/Face_Recognition.git)
 cd react-face-recognition
 
 
